@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hemanth Jagaari</h1>
+
 - 👨🏽‍💻  I’m currently working on something cool projects:wink:
 - 🌱  I’m currently learning Machine Learning and Django. 
 - 💬  Ask me about anything, I am happy to help.
 - 👯 I’m looking to collaborate on ML/DL projects
-- 📫  How to reach me:hemanthjagaari@gmail.com
+- 📫  How to reach me: hemanthjagaari@gmail.com
 
 ## 🛠️ My Skills
 
