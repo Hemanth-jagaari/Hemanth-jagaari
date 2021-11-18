@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hemanth Jagaari</h1>
+<h1 align="center">Hi 👋, I'm Hemanth Jagaari</h1> 
+
 
 - 👨🏽‍💻  I’m currently working on some cool ML/DL projects:wink:
 - 🌱  I’m currently learning Django and Machine Learning.
