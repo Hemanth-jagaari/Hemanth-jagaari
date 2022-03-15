@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hemanth Jagaari</h1> 
 
 
-- 👨🏽‍💻  I’m currently working on some cool ML/DL projects:wink:
-- 🌱  I’m currently learning Django and Machine Learning.
+- 👨🏽‍💻  I’m currently working on some Full Stack and Machine Learning projects:wink:
+- 🌱  I’m currently learning DSA and Machine Learning.
 - 💬  Ask me about anything, I am happy to help.
 - 👯 I’m looking to collaborate on ML/DL projects
 - 📫  How to reach me: hemanthjagaari@gmail.com
