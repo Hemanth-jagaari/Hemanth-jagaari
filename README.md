@@ -7,6 +7,8 @@
 - 👯 I’m looking to collaborate on ML/DL projects
 - 📫  How to reach me: hemanthjagaari@gmail.com
 
+
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -71,3 +73,6 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
 </p>
+
+![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemanth-jagaari&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-jagaari&hide=shell&card_width=500&line_height=200)](https://github.com/anuraghazra/github-readme-stats)
