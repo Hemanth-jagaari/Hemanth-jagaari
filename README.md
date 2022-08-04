@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hemanth Jagaari</h1> 
 
 
-- 👨🏽‍💻  I’m currently working on some Full Stack and Machine Learning projects:wink:
-- 🌱  I’m currently learning DSA and Machine Learning.
+- 🌱  I’m currently learning DSA and Working on Full Stack Java projects
 - 💬  Ask me about anything, I am happy to help.
-- 👯 I’m looking to collaborate on ML/DL projects
+- 👯  I’m looking to collaborate on Any Machine Learning or Full Stack Projects projects
 - 📫  How to reach me: hemanthjagaari@gmail.com
 
 
@@ -47,6 +46,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
+   &emsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%10ff0080.svg?logo=Angular&logoColor=black">
+   </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -60,6 +63,8 @@
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23F37626.svg?logo=Aws&logoColor=white"></a>  
+  &emsp;
  </p>
  
  ### 👉 Software & Tools
@@ -71,6 +76,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.eclipse.org/"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23A37826.svg?logo=Eclipse&logoColor=white"></a>
   &emsp;
 </p>
 
