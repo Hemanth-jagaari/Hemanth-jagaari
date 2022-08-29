@@ -5,7 +5,7 @@
 - 💬  Ask me about anything, I am happy to help.
 - 👯  I’m looking to collaborate on Any Machine Learning or Full Stack Projects projects
 - 📫  How to reach me: hemanthjagaari@gmail.com
-
+- 📜  [Resume](https://drive.google.com/file/d/13SYpyzKdTRHiOIxbYthjlYI8Kg_980ZZ/view?usp=sharing)
 
 
 ## 🛠️ My Skills
