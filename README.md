@@ -7,6 +7,11 @@
 - 📫  How to reach me: hemanthjagaari@gmail.com
 - 📜  [Resume](https://drive.google.com/file/d/13SYpyzKdTRHiOIxbYthjlYI8Kg_980ZZ/view?usp=sharing)
 
+## Coding Profiles
+- [Leetcode](https://leetcode.com/hemanthjagaari/)
+- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/hemanthjagaari/profile)
+- [HackerRank](https://www.hackerrank.com/jagaarihemanth?hr_r=1)
+- [CodeChef](https://www.codechef.com/users/jagaarihemanth)
 
 ## 🛠️ My Skills
 
