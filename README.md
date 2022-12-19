@@ -84,5 +84,5 @@
   &emsp;
 </p>
 
-![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemanth-jagaari&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-jagaari&hide=shell&card_width=500&line_height=200)](https://github.com/anuraghazra/github-readme-stats)
+![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemanth-jagaari&show_icons=true&theme=dracula&env=PAT_1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-jagaari&hide=shell&card_width=500&line_height=100)](https://github.com/anuraghazra/github-readme-stats)
